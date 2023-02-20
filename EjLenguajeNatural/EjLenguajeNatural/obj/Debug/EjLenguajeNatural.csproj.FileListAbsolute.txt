@@ -1,0 +1,18 @@
+C:\Users\msned\source\repos\EjLenguajeNatural\EjLenguajeNatural\bin\Debug\EjLenguajeNatural.exe.config
+C:\Users\msned\source\repos\EjLenguajeNatural\EjLenguajeNatural\bin\Debug\EjLenguajeNatural.exe
+C:\Users\msned\source\repos\EjLenguajeNatural\EjLenguajeNatural\bin\Debug\EjLenguajeNatural.pdb
+C:\Users\msned\source\repos\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.csprojAssemblyReference.cache
+C:\Users\msned\source\repos\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.Form1.resources
+C:\Users\msned\source\repos\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.Properties.Resources.resources
+C:\Users\msned\source\repos\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.csproj.GenerateResource.cache
+C:\Users\msned\source\repos\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.exe
+C:\Users\msned\source\repos\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\EjLenguajeNatural\EjLenguajeNatural\bin\Debug\EjLenguajeNatural.exe.config
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\EjLenguajeNatural\EjLenguajeNatural\bin\Debug\EjLenguajeNatural.exe
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\EjLenguajeNatural\EjLenguajeNatural\bin\Debug\EjLenguajeNatural.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.csprojResolveAssemblyReference.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.Form1.resources
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.Properties.Resources.resources
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.csproj.GenerateResource.Cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.exe
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\EjLenguajeNatural\EjLenguajeNatural\obj\Debug\EjLenguajeNatural.pdb

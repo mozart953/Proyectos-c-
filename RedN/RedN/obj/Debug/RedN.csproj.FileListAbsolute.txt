@@ -1,0 +1,20 @@
+C:\Users\edwin\source\repos\RedN\RedN\bin\Debug\RedN.exe.config
+C:\Users\edwin\source\repos\RedN\RedN\bin\Debug\RedN.exe
+C:\Users\edwin\source\repos\RedN\RedN\bin\Debug\RedN.pdb
+C:\Users\edwin\source\repos\RedN\RedN\obj\Debug\RedN.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\RedN\RedN\obj\Debug\RedN.Form1.resources
+C:\Users\edwin\source\repos\RedN\RedN\obj\Debug\RedN.Properties.Resources.resources
+C:\Users\edwin\source\repos\RedN\RedN\obj\Debug\RedN.csproj.GenerateResource.cache
+C:\Users\edwin\source\repos\RedN\RedN\obj\Debug\RedN.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\RedN\RedN\obj\Debug\RedN.exe
+C:\Users\edwin\source\repos\RedN\RedN\obj\Debug\RedN.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\bin\Debug\RedN.exe.config
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\bin\Debug\RedN.exe
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\bin\Debug\RedN.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\obj\Debug\RedN.csproj.AssemblyReference.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\obj\Debug\RedN.Form1.resources
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\obj\Debug\RedN.Properties.Resources.resources
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\obj\Debug\RedN.csproj.GenerateResource.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\obj\Debug\RedN.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\obj\Debug\RedN.exe
+C:\Users\Wilson Pop\Documents\Visual Studio 2019\Projects\RedN\RedN\obj\Debug\RedN.pdb

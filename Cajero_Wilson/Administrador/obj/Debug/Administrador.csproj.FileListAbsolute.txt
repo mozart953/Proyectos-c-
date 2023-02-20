@@ -1,0 +1,7 @@
+c:\users\wilson pop\documents\visual studio 2017\Projects\Cajero_Wilson\Administrador\bin\Debug\Administrador.dll
+c:\users\wilson pop\documents\visual studio 2017\Projects\Cajero_Wilson\Administrador\bin\Debug\Administrador.pdb
+c:\users\wilson pop\documents\visual studio 2017\Projects\Cajero_Wilson\Administrador\obj\Debug\Administrador.csprojResolveAssemblyReference.cache
+c:\users\wilson pop\documents\visual studio 2017\Projects\Cajero_Wilson\Administrador\obj\Debug\Administrador.dll
+c:\users\wilson pop\documents\visual studio 2017\Projects\Cajero_Wilson\Administrador\obj\Debug\Administrador.pdb
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\Cajero_Wilson\Administrador\obj\Debug\Administrador.Area_de_administradores.resources
+C:\Users\Wilson Pop\Documents\Visual Studio 2017\Projects\Cajero_Wilson\Administrador\obj\Debug\Administrador.csproj.GenerateResource.Cache

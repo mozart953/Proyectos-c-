@@ -1,0 +1,62 @@
+0.00158,BAD,2005-01-01,0.00158,-1071607778,0,Row yielded no match during lookup.
+
+0.00158,BAD,2005-01-02,0.00158,-1071607778,0,Row yielded no match during lookup.
+
+0.00158,BAD,2005-01-03,0.00158,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-04,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-05,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-06,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-07,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-08,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-09,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-10,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-11,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-12,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-13,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-14,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-15,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-16,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-17,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-18,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-19,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-20,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-21,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-22,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,2005-01-23,0.00157,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,2005-01-24,0.00156,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,2005-01-25,0.00156,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,2005-01-26,0.00156,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,2005-01-27,0.00156,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,2005-01-28,0.00156,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,2005-01-29,0.00156,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,2005-01-30,0.00155,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,2005-01-31,0.00155,-1071607778,0,Row yielded no match during lookup.
+
