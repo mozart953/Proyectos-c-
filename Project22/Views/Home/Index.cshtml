@@ -1,0 +1,38 @@
+﻿﻿@model IEnumerable<Project22.Models.Alumno>
+
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div class="alert alert-@ViewBag.alerta"><b>@ViewBag.res</b></div>
+<form method="post" class="row gap-5 center-block">
+    <div class="form-group row">
+        <label for="input1" class="form-label">Nombre</label>
+        <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre" required />
+    </div>
+    <div class="form-group row">
+        <label for="input2" class="form-label">ID</label>
+        <input type="password" class="form-control" name="idAlumno" id="idAlumno" placeholder="ID" required />
+    </div>
+
+
+
+    <div class="d-grid gap-2">
+        <button type="submit" class="btn btn-success btn-lg">Entrar</button>
+    </div>
+</form>
+
+@{         if (ViewBag.res == "Bienvenido") {
+
+                <a type="btn" href=" @Url.Action("Create", "Alumnoes" )" class="btn btn-success">Continuar&nbsp&nbsp</a>
+
+    } else{
+
+    }
+
+}
+
+
